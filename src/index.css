@@ -2,7 +2,9 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   /* background-color: rgb(22, 43, 12); */
-  background-image: url("./assets/R.jpg");
+  background-image: url("./assets/R.jpg") ;
+  background-size: cover;
+
 }
 
 header {
