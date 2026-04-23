@@ -11,7 +11,7 @@ Uma aplicação web construída **React** e **Vite** que consome a API ** Astron
 - CSS
 - API publica da NASA (APOD)
 
-##Funcionalidades
+## Funcionalidades
 
 - Exibição de imagens e vídeos do dia
 - Titulo, descrição e data
