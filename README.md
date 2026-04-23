@@ -5,11 +5,11 @@ Uma aplicação web construída **React** e **Vite** que consome a API ** Astron
 
 ## Tecnologias Utilizadas
 
--React
--Vite
--Javascript(ES6+)
--CSS
--API publica da NASA (APOD)
+- React
+- Vite
+- Javascript(ES6+)
+- CSS
+- API publica da NASA (APOD)
 
 ##Funcionalidades
 -Exibição de imagens e vídeos do dia
